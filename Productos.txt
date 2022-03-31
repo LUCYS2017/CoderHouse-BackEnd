@@ -1,0 +1,7 @@
+[
+    {"id":1,"name":"TV","price":250},
+    {"id":2,"name":"Laptop","price":500},
+    {"id":3,"name":"Lampara","price":650},
+    {"id":4,"name":"Mouse","price":5.5},
+    {"id":5,"name":"Teclado","price":15}
+]
